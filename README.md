@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Face Recognition Attendance App Banner" width="800"/>
+  <img src="Acadex Banner.png" alt="Face Recognition Attendance App Banner" width="800"/>
 </p>
 
 # 🏫 Face Recognition Attendance App
